@@ -1,0 +1,25 @@
+.mainTab{
+    margin: 50px 20px;
+}
+.nav a{
+    color:rgb(0,255,255);
+	margin:10px;
+	padding:10px;
+	text-align:center;
+	font-size:20px;
+	border-radius:20px 20px 0 0;
+	background-color:#000;
+}
+.nav a:hover{
+	color:#000;
+	background-color:rgb(0,255,255);
+}
+.nav .nav-link:active{
+    background: red;
+}
+.tab-content{
+	padding-bottom: 20px;
+    height: auto;
+    border: 1px solid #000;
+    border-top: none;
+}

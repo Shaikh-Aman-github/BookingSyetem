@@ -1,0 +1,14 @@
+.AboutPage{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: rgb(100, 190, 218);
+}
+#DeveloperDetails{
+    margin-top: 50px;
+}
+#profileImg{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}

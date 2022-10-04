@@ -1,0 +1,45 @@
+
+.placeApiDiv .nav{
+    margin-top: 50px !important;
+}
+button{
+    margin:5px;
+	border-color:#000;
+	border-radius:10px 10px 0 0;
+	width:100%;
+	height:auto;
+	text-align:center;
+	color:rgb(0,255,255);
+	background-color:#000;	
+	display:inline;
+	cursor:pointer;	
+}
+button:hover{
+	background-color:rgb(100, 190, 218);
+	color: #000;
+	border-color:transparent;
+}
+
+.main-form{
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: rgb(100, 190, 218);
+}
+.main-form-body{
+	margin: auto;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+}
+.main-form-body input{
+	height: 40px;
+	border-radius: 10px;
+	outline: none;
+	text-align: center;
+	font-weight: bold;
+}
+.main-form-body input:hover{
+	color: #fff;
+	background: #000;
+}

@@ -1,0 +1,44 @@
+.Register{
+	background-image: url('../../../assets/back.png');
+	margin: 100px;
+	padding: 10px;
+	border-radius: 10px;
+}
+.Register .sign_in{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.sign_in input{
+	border-radius: 10px;
+	background-color: #000;
+	color: rgb(59, 139, 139);
+	border-color: transparent;
+}
+.sign_in input:hover{
+	border-radius: 10px;
+	width: 100%;
+	font-size: large;
+	box-shadow: 0px 8px 16px 10px rgb(0,255,255,0.2);
+	font-style:italic;
+}
+.sign_in .button{
+    justify-content: center;
+	align-items: center;
+	padding:5px;
+	margin: 10px;
+	width: 30%;
+    height: auto;
+	color:rgb(59, 139, 139);
+	outline:none;
+	cursor:pointer;
+	border-radius: 5px;
+	border-color:transparent;
+	background-color:#000;
+}
+.sign_in .button:hover{
+	background-color:rgba(15, 34, 85, 0);
+	color:#000;
+	box-shadow: 0px 8px 16px 0px rgb(0,255,255,0.2);
+	border-color:transparent;
+}

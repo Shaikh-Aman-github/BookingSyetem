@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "name": "test",
+      "email": "askooli956@gmail.com",
+      "phone": "1234567890",
+      "address": "Sr.55- F.N-102, Temple Top Building, bhagyoday nagar, kondhwa khurd,",
+      "cityname": "Pune",
+      "statename": "Maharashtra",
+      "zipcode": "411048",
+      "destinationTo": "Delhi",
+      "destinationFrom": "Pune",
+      "peopleCount": "2",
+      "acountNumber": "122333333333",
+      "debitNumber": "3333333333",
+      "cvv": "444",
+      "reAmount": "60000",
+      "id": 2
+    },
+    {
+      "name": "Varun D",
+      "email": "askooli786@gmail.com",
+      "phone": "5554449990",
+      "address": "Sr.55- F.N-102, Temple Top Building, bhagyoday nagar, kondhwa khurd,",
+      "cityname": "Pune",
+      "statename": "Maharashtra",
+      "zipcode": "411048",
+      "destinationTo": "Gujrat",
+      "destinationFrom": "Pune",
+      "peopleCount": "4",
+      "acountNumber": "121290908888",
+      "debitNumber": "1232316660333390",
+      "cvv": "444",
+      "reAmount": "120000",
+      "id": 3
+    },
+    {
+      "name": "Aman Shaikh",
+      "email": "123@gmail.com",
+      "phone": "1234567891",
+      "address": "Sr.55- F.N-102, Temple Top Building, bhagyoday nagar, kondhwa khurd,",
+      "cityname": "Pune",
+      "statename": "Maharashtra",
+      "zipcode": "411048",
+      "destinationTo": "Goa",
+      "destinationFrom": "Pune",
+      "peopleCount": "2",
+      "acountNumber": "12233333333331",
+      "debitNumber": "333333333333333",
+      "cvv": "222",
+      "reAmount": "60000",
+      "id": 4
+    }
+  ]
+}
